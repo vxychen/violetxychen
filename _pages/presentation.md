@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Presentations"
-excerpt: "Presentations"
+excerpt: "Presentation"
 author_profile: true
 redirect_from: 
   - /presentation/
