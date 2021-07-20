@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+[CV](http://vxychen.github.io/files/CV-VioletChen-Feb21.pdf) *Updated Feb. 2021*
+
+[Resume](http://vxychen.github.io/files/Resume_VioletChen_Feb21.pdf) *Updated Feb. 2021*
+
+{% comment %}
 {% include base_path %}
 
 Education
@@ -57,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% endcomment %}
