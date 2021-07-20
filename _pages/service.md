@@ -1,11 +1,8 @@
 ---
-permalink: /service
+layout: archive
 title: "Service"
-excerpt: "Service"
+permalink: /service/
 author_profile: true
-redirect_from: 
-  - /service/
-  - /service.html
 ---
 
 Under development
