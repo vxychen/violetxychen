@@ -12,4 +12,4 @@ I am a 5th year PhD Candidate in Operations Research at [Tepper School of Busine
 
 My research is motivated by the central theme of fairness in AI. I utilize optimization as the primary theoretical foundation and my projects aim to contribute insights about two fundamental questions, what is fair and how to be fair, in different automatic decision methods including mathematical programming, machine learning and sequential decision making.
 
-I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms.org). Outside graduate school, since January 2020, I am better known as Model's mom [@modeldoodle](https://www.instagram.com/modeldoodle/?hl=en). 
+I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms.org). Outside graduate school, since January 2020, I am better known as Model's mom ([@modeldoodle](https://www.instagram.com/modeldoodle/?hl=en)). 
