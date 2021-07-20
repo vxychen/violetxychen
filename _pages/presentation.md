@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Presentations"
-excerpt: "Presentation"
+permalink: /presentation/
 author_profile: true
-redirect_from: 
-  - /presentation/
-  - /presentation.html
 ---
 
 Under development
