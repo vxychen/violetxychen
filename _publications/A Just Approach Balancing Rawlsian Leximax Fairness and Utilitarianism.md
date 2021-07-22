@@ -6,9 +6,9 @@ excerpt: This paper studies the challenging task of defining and modeling a prop
 a practical mixed integer/linear programming (MILP) formulation for each maximization problem. 
 date: Feb. 2020
 venue: 'Proceedings of the 2020 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’20)'
-
-<!--paperurl: 'http://academicpages.github.io/files/A just approach balancing maximin fairness and utilitarianism.pdf'-->
 ---
+<!--paperurl: 'http://academicpages.github.io/files/A just approach balancing maximin fairness and utilitarianism.pdf'-->
+
 This paper studies the challenging task of defining and modeling a proper fairness-efficiency trade off. We define fairness with Rawlsian leximax fairness, which views the lexicographic maximum among all feasible outcomes as the most equitable; and define efficiency with Utilitarianism, which seeks to maximize the sum of utilities received by entities regardless of individual differences. Motivated by a justice-driven trade off principle: prioritize fairness to benefit the less advantaged unless too much efficiency is sacrificed, we propose a sequential optimization procedure to balance leximax fairness and utilitarianism: each iteration maximizes a social welfare function, and we provide
 a practical mixed integer/linear programming (MILP) formulation for each maximization problem. 
 
