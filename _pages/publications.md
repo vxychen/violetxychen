@@ -8,9 +8,13 @@ author_profile: true
 
 Under development
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 ### Conference Proceedings
 
-{% for post in site.confpublications reversed %}
+{% for post in site.confpublications %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -20,6 +24,3 @@ Under development
   {% include archive-single.html %}
 {% endfor %}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
