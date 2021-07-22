@@ -7,6 +7,8 @@ author_profile: true
 
 Under development
 
+{% include base_path %}
+
 Conference Proceedings
 {% for post in site.confpublications reversed %}
   {% include archive-single.html %}
@@ -20,5 +22,3 @@ Preprints
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
