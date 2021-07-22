@@ -1,7 +1,7 @@
 ---
 title: "Combining Leximax Fairness and Efficiency in a Mathematical Programming Model"
 collection: publications
-permalink: /publication/ceu-preprint
+permalink: /publication/2021-3-preprint
 date: March, 2021.
 venue: 'Major Revision, European Journal of Operational Research'
 author: 'Violet (Xinying) Chen, J.N. Hooker'
