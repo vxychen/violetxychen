@@ -1,0 +1,13 @@
+---
+title: "Combining Leximax Fairness and Efficiency in a Mathematical Programming Model"
+collection: publications
+permalink: /publication/ceu-preprint
+date: March, 2021.
+venue: 'Major Revision, European Journal of Operational Research'
+author: 'Violet (Xinying) Chen, J.N. Hooker'
+
+---
+
+A trade-off between fairness and efficiency is an important element of many practical decisions. We propose a principled and practical method for balancing these two criteria in an optimization model. Following an assessment of existing schemes, we define a set of social welfare functions (SWFs) that combine Rawlsian leximax fairness and utilitarianism and overcome some of the weaknesses of previous approaches. In particular, we regulate the equity/efficiency trade-off with a single parameter that has a meaningful interpretation in practical contexts. We formulate the SWFs using mixed integer constraints and sequentially maximize them subject to constraints that define the problem at hand. We demonstrate the method on problems of realistic size involving healthcare resource allocation and disaster preparation, with solution times of several seconds at most.
+
+[Download paper here](http://academicpages.github.io/files/CEU-preprint.pdf)
