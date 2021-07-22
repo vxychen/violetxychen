@@ -8,6 +8,6 @@ venue: Proceedings of the 2020 AAAI/ACM Conference on AI, Ethics, and Society (A
 
 <!--paperurl: 'http://academicpages.github.io/files/A just approach balancing maximin fairness and utilitarianism.pdf'-->
 
-[Download paper here](http://academicpages.github.io/files/A just approach balancing maximin fairness and utilitarianism.pdf)
+[Download paper here](http://academicpages.github.io/files/CEU-AIES.pdf)
 
 <!--Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).-->
