@@ -247,7 +247,7 @@ defaults:
    # _confpublications
   - scope:
       path: ""
-      type: publications
+      type: confpublications
     values:
       layout: single
       author_profile: true
@@ -256,7 +256,7 @@ defaults:
    # _preprints
   - scope:
       path: ""
-      type: publications
+      type: preprints
     values:
       layout: single
       author_profile: true
