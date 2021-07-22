@@ -14,7 +14,7 @@ Under development
 
 ### Conference Proceedings
 
-{% for post in site.confpublications %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
