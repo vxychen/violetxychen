@@ -7,12 +7,12 @@ author_profile: true
 
 Under development
 
-##Conference Proceedings
+Conference Proceedings
 {% for post in site.confpublications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-##Preprints
+Preprints
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
