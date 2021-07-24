@@ -1,18 +1,23 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+#Name Name:
+#  name        : "Name Name"
+#  uri         : "http://name.com"
+#  email       : "name@name.com"
+#  bio         : "This is the first name."
+#  avatar      : "bio-photo-2.jpg"
+#  twitter     : "name"
+#  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+author:
+  name             : "Violet (Xinying) Chen"
+  avatar           : "CHEN-VIOLET-06.jpg"
+  bio              : "PhD Candidate in Operations Research, Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
+  googlescholar    : "https://scholar.google.com/citations?authuser=1&user=t0m62eQAAAAJ"
+  email            : "xinyingc@andrew.cmu.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              : "https://vxychen.github.io"
+  linkedin         : "https://www.linkedin.com/in/violetchen621"
+  orcid            : "https://orcid.org/0000-0002-5669-6102"
+  twitter          : "VioletC_CMU"
