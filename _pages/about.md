@@ -14,4 +14,5 @@ My research is motivated by the central theme of fairness in AI. I utilize optim
 
 I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms.org). Outside graduate school, since January 2020, I am better known as Model's mom ([@modeldoodle](https://www.instagram.com/modeldoodle/?hl=en)). 
 
-[[CV](http://vxychen.github.io/files/CV-VioletChen-Feb21.pdf) (*Updated Feb. 2021*)] [[Resume](http://vxychen.github.io/files/Resume_VioletChen_Feb21.pdf) (*Updated Feb. 2021*)]
+[[**CV**](http://vxychen.github.io/files/CV-VioletChen-Feb21.pdf) (*Updated Feb. 2021*)] 
+[[**Resume**](http://vxychen.github.io/files/Resume_VioletChen_Feb21.pdf) (*Updated Feb. 2021*)]
