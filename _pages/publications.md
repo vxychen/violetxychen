@@ -7,13 +7,12 @@ author_profile: true
 ---
 <!--{% include base_path %}-->
 
-<!-- 
+
 ## Journal Articles
 
 {% for post in site.journalpubs reversed %}
   {% include archive-single.html %}
 {% endfor %}
--->
 
 ## Conference Proceedings
 
