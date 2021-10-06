@@ -5,7 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
-- [Upcoming] **INFORMS 2021**, Fairness through Optimization in Artificial Intelligence Applications, *October 2021, Anaheim*
-- **INFORMS 2020**, Online Convex Optimization Perpestive for Learning from Dynamically Revealed Preferences, *October 2020, Virtual*
-- **AIES 2020**, A Just Approach Balancing Rawlsian Fairness and Utilitarianism, *February 2020, New York*
-- **INFORMS 2019**, Combining Leximax Fairness and Utilitarianism in a Mathematical Programming Model, *November 2019, Seattle*
+- [Upcoming] Fairness through Optimization in Artificial Intelligence Applications
+  - **INFORMS 2021**, October 2021, Anaheim, CA
+- Formulate, Achieve and UnderstandWelfare-based Fairness
+  - **CMU Fairness, Accountability, Transparency and Ethics Summer Series**, *Flash talk*, July 2021, Virtual
+- Online Convex Optimization Perpestive for Learning from Dynamically Revealed Preferences
+  - **INFORMS 2020**, October 2020, Virtual
+- Combining Leximax Fairness and Eciency in a Mathematical Programming Model
+  - **AAAI/ACM Conference on AI, Ethics and Society (AIES 2020)**, *Poster*, February 2020, New York, NY
+  - **INFORMS 2019**, November 2019, Seattle, WA
