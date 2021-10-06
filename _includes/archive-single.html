@@ -43,9 +43,11 @@
     {% elsif post.collection == 'confpublications' or post.collection == 'journalpubs' or post.collection == 'preprints' %}
        <p><i>{{ post.authors }}</i> </p>
        <p><i>{{ post.venue }}</i>, {{ post.pubdate }} </p>
-    {% elsif post.collection == 'preprints' or post.collection == 'working' %}
+    {% elsif post.collection == 'preprints'%}
        <p><i>{{ post.authors }}</i> </p>
        <p><i>{{ post.venue }}</i> </p>
+    {% elsif post.collection == 'working'%}
+       <p><i>{{ post.authors }}</i> </p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
