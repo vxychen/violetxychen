@@ -10,7 +10,7 @@ author_profile: true
 
 ## As teaching assistant
 - **Optimization** 45-751, CMU MBA core course, Spring 2021 (as *head TA*), Fall 2019
-- **Probability and Statistics** 45-750, CMU MBA/MSBA course, Fall 2020, Fall 2019
+- **Probability and Statistics** 45-750, CMU MBA/MSBA core course, Fall 2020, Fall 2019
 - **Business Networks** 45-951, CMU MBA course, Fall 2020
 - **Linear Programming** 47-834, CMU PhD course, Fall 2019, Fall 2018
 - **Convex Optimization** 47-851, CMU PhD course, Fall 2019
