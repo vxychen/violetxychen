@@ -279,6 +279,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _working
+  - scope:
+      path: ""
+      type: working
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
