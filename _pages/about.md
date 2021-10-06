@@ -14,7 +14,7 @@ My research interests are broadly related to **fairness in optimization and arti
 
 I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms.org). Outside graduate school, since January 2020, I am better known as Model's mom ([@modeldoodle](https://www.instagram.com/modeldoodle/?hl=en)). 
 
-I am on the 2021-2022 academic job market. I will present at the 2021 INFORMS annual meeting, Session VMD76: Artificial Intelligence IV, 2:45PM-4:15PM (PDT), October 25, 2021.
+### I am on the 2021-2022 academic job market. I will present at the 2021 INFORMS annual meeting, Session VMD76: Artificial Intelligence IV, 2:45PM-4:15PM (PDT), October 25, 2021.
 {: .notice--info}
 
 ### [CV](http://vxychen.github.io/files/CV-VioletChen.pdf) (*Updated Oct. 2021*)
