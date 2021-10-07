@@ -44,8 +44,8 @@
        <p>{{ post.authors }}, <i>{{ post.venue }}</i>, <i>{{ post.pubdate }}</i>.</p>
     {% elsif post.collection == 'preprints' %}
        <p>{{ post.authors }}, <i>{{ post.venue }}</i>, <i>{{ post.pubdate }}</i>.</p>
-<!--    {% elsif post.collection == 'working' %} -->
-    <!--   <p>{{ post.authors }}.</p> -->
+    {% elsif post.collection == 'working' %} 
+       <p></p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
