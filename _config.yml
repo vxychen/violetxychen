@@ -196,6 +196,9 @@ collections:
   journalpubs:
     output: true
     permalink: /:collection/:path/
+  working:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
