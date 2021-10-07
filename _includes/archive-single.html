@@ -28,9 +28,9 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.link }}"><font size="12">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span><\font></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink"><font size="12">{{ title }}</font></a>
       {% endif %}
     </h2>
     
@@ -40,8 +40,8 @@
 
     {% if post.collection == 'teaching' %}
        <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date }}. </p>
-    {% elsif post.collection == 'confpublications' or post.collection == 'journalpubs' or post.collection == 'preprints' or post.collection == 'working' %}
-       <p>{{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.pubdate }}.</p>
+    {% elsif post.collection == 'confpublications' or post.collection == 'journalpubs'%}
+       <p><font size="12">{{ post.authors }}, <i>{{ post.venue }}</i>, {{ post.pubdate }}.</font></p>
     {% elsif post.collection == 'preprints' %}
        <p>{{ post.authors }}, <i>{{ post.venue }}</i>.</p>
     {% elsif post.collection == 'working' %}
