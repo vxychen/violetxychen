@@ -16,7 +16,9 @@ I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms
 > **I am on the 2021-2022 academic job market. Please find my CV [here](http://vxychen.github.io/files/CV-VioletChen.pdf).**
 > 
 > **I will present at the 2021 INFORMS annual meeting:
+> 
 >  In-person Session SC42: Artificial Intelligence II, 11:00AM-12:30PM (PDT), October 24, 2021;
+>  
 >  Virtual Session VMD76: Artificial Intelligence IV, 2:45PM-4:15PM (PDT), October 25, 2021.**
 <!--[[**Resume**](http://vxychen.github.io/files/Resume_VioletChen_Feb21.pdf) (*Updated Feb. 2021*)]-->
 
