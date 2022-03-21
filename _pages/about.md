@@ -13,7 +13,11 @@ I am a 5th year PhD Candidate in Operations Research at [Tepper School of Busine
 My research interests are broadly related to **fairness in optimization and artificial intelligence**. Motivated by two fundamental questions, *what is fair* and *how to be fair*, I study a variety of fairness approaches and perspectives from optimization, machine learning, welfare economics and ethics. My projects aim to contribute insights about eliciting, formulating and operationalizing fairness and equity. 
 
 I am actively involved with the [CMU INFORMS Student Chapter](https://cmuinforms.org). 
-> **I am on the 2021-2022 academic job market. Please find my CV [here](http://vxychen.github.io/files/CV-VioletChen.pdf).**
+
+More details can be found on my CV [here](http://vxychen.github.io/files/CV-VioletChen.pdf).
+
+> **In fall 2022, I will join Stevens Institute of Technology as an Assistant Professor in Information Systems/Analytics
+at the School of Business.**
 > 
 <!--[[**Resume**](http://vxychen.github.io/files/Resume_VioletChen_Feb21.pdf) (*Updated Feb. 2021*)]-->
 
